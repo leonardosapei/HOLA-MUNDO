@@ -1,8 +1,8 @@
 Algoritmo GestionDeEstacionamiento
 	Definir autosEstacionados Como Real
 	Definir precioPorHora Como Real
-	precioPorHora <- 500
-	autosEstacionados <- 0 // Cambiar valor hora según corresponda
+	precioPorHora <- 500 // Cambiar valor hora según corresponda
+	autosEstacionados <- 0 
 	Dimensionar matriculas(100)
 	Dimensionar horasIngreso(100)
 	Mientras opcion<>4 Hacer
